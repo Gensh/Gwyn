@@ -1,0 +1,11 @@
+- Artorias already in the knight group
+- Gwyn and Artorias try to find Izalith and Daughters
+- Witches had to flee all the way down
+- Izalith caught Rot keeping her Daughters clean as they fled
+- Lake of Rot caught fire
+- Izalith takes the Frenzied Flame into herself to repress the Rot
+- Izalith wears hood to hide her eyes
+- Izanami story, except it's frenzy instead of being undead
+- Gwyn can't allow her to put the Academy at risk, and they split
+- Gwyn sends scouts to Caelid to find an expert on Rot
+- Redmane Knight Ornstein
