@@ -1,29 +1,3 @@
-- Faction dispute
-    - Soldiers join after hearing they'll have to fight Izalith anyway
-    - Nobles are cowardly
-    - Scholars want to stay at peace but also have dragonboner
-- Rennala is still upstairs
-    - Scholars were trying to hoard her but bargain with Seath for a new school
-    - Seath absorbs her and the Great Rune
-- As master of all factions, Gwyn is pronounced king
-- Seath begins the process of rebirthing Ranni as Priscilla
-    - Finger-Slayer Blade to Lifehunt Scythe
-- Gwyn sends scouts to Caelid to find an expert on Rot
-    - Redmane Knight Ornstein
-    - Ornstein is concerned about activity at the Dragonbarrow
-    - The journey reveals the Academy is a safe location to other survivors
-- Mercy vs food supply
-    - Guidance of Grace vs luck
-    - Whoops, they go to Izalith
-- Izalith is a huge persistent danger
-    - Need to remove issue before ramping up food production
-    - Water still unsafe
-    - Not even crystal is safe, per Ornstein
-    - No way to really flush the tunnels
-    - Knights suck at tunnel fighting and defending against fire
-- Fire Monk camps were destroyed, but what about Volcano Manor?
-    - Gwyn vaguely aware that fucked up shit was happening inside
-    - Red and Black Monks never met because the latter stayed in the underside
 - Artorias put in command of regular defenses; Ornstein on Izalith watch
 - Gwyn goes through the mine
     - All the elevators are gone
@@ -167,3 +141,5 @@
 - Iron Dragonslayer is also a DTS
 - Ledo is a student of the Ancestor Followers
 - Kalameet
+- Finger-Slayer Blade to Lifehunt Scythe
+- Red and Black Monks never met because the latter stayed in the underside
