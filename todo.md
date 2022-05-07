@@ -1,11 +1,169 @@
-- Artorias already in the knight group
-- Gwyn and Artorias try to find Izalith and Daughters
-- Witches had to flee all the way down
-- Izalith caught Rot keeping her Daughters clean as they fled
-- Lake of Rot caught fire
-- Izalith takes the Frenzied Flame into herself to repress the Rot
-- Izalith wears hood to hide her eyes
-- Izanami story, except it's frenzy instead of being undead
-- Gwyn can't allow her to put the Academy at risk, and they split
+- Faction dispute
+    - Soldiers join after hearing they'll have to fight Izalith anyway
+    - Nobles are cowardly
+    - Scholars want to stay at peace but also have dragonboner
+- Rennala is still upstairs
+    - Scholars were trying to hoard her but bargain with Seath for a new school
+    - Seath absorbs her and the Great Rune
+- As master of all factions, Gwyn is pronounced king
+- Seath begins the process of rebirthing Ranni as Priscilla
+    - Finger-Slayer Blade to Lifehunt Scythe
 - Gwyn sends scouts to Caelid to find an expert on Rot
-- Redmane Knight Ornstein
+    - Redmane Knight Ornstein
+    - Ornstein is concerned about activity at the Dragonbarrow
+    - The journey reveals the Academy is a safe location to other survivors
+- Mercy vs food supply
+    - Guidance of Grace vs luck
+    - Whoops, they go to Izalith
+- Izalith is a huge persistent danger
+    - Need to remove issue before ramping up food production
+    - Water still unsafe
+    - Not even crystal is safe, per Ornstein
+    - No way to really flush the tunnels
+    - Knights suck at tunnel fighting and defending against fire
+- Fire Monk camps were destroyed, but what about Volcano Manor?
+    - Gwyn vaguely aware that fucked up shit was happening inside
+    - Red and Black Monks never met because the latter stayed in the underside
+- Artorias put in command of regular defenses; Ornstein on Izalith watch
+- Gwyn goes through the mine
+    - All the elevators are gone
+    - Brings an honor guard and an engineers group
+- Gelmir was already so barren, only the army remnants are destroyed
+    - Also all the ladders
+    - Fort Laeidd abandoned and even crispier
+- Volcano Manor is seemingly untouched
+- Zorayas is now in charge
+    - Big guy bodyguard Smough
+- Rya is just excited that other people are still alive
+    - Sad that her friend went mad
+    - Considers Izalith's betrayal unacceptable because of Tanith's example
+    - Willing to visit in person and discuss long-term alliance
+- Reports of Omens wandering the land as brigands
+    - Few survivors of attacks, professional mindset
+- Minor timeskip
+    - Manserpents are strong vs bugs and fire and good at tunnel fighting
+    - Everyone kind of agrees Volcano Manor sucks
+    - Rich soil of Gelmir transported to Liurnia
+    - Rya starting to become infatuated with Gwyn
+    - Gwyn and Smough get along well because of their shared background
+- Expedition to the rest of Altus in search of grain
+    - Take Arty and Orny
+    - Rya and Smough in charge
+    - What are they going to do? Rebel against Gwyn and break the pact with Seath?
+- Melina at windmill village
+    - Both sets of memories: daughter of Marika and Gloam-Eyed Queen
+    - Exterminating the Godskin who have gone too far
+    - Gathering blackflame to fight the Lord
+    - Mixture of Godslayers, Omens, and Black Knives
+    - Omens were protected from the Frenzied Flame by their curses and by the merchant clan thinking them kindred spirits
+- The Lord of Chaos is gone, but Gwyn should seek Melina's brother beneath Leyndell
+    - Send a messenger to Gelmir and continue onward
+    - Ciaran stays as guide/liaison
+- Gwyn torn between gladness to see the Order is in ashes and regret to see that civlization is in ashes
+    - Gwyn makes comments about the ash that will age poorly
+- Spooky voice beckons them below the city, to see the byproducts of all empires
+    - Gwyn makes more comments about the permanent underclass that will age poorly
+- Deeproot Depths already turned to Ash Lake
+- Mer-Nito arises from the black waters
+    - Godwyn's bangles binding him to flesh like Wolnir's
+    - Escaped the Frenzied Flame in the deep, still waters
+    - Wants to spread gentle death, including time as a skeleton to come to peace
+    - Not aggressive in spreading Destined Death like Melina: slayer vs slain
+- The Lord of Chaos is too powerful to be beaten, but Destined Death can do so
+    - Having absorbed the Elden Ring, has the powers of the One Great like Placidusax
+    - If the Frenzied Flame wants all things to be one, then they need to do just that
+    - Nito has spoken with the dead from the Academy-Izalith conflict and can propose peace
+    - Together, they can distract the Lord long enough for the Lord's Blades to make their move
+- Ignore the Mountaintops of the Giants
+    - Everyone is dead
+    - "Here, you can meet them if you don't believe me"
+    - As the landscape changed, they all fled to the Consecrated Snowfield
+    - More like a pool of holy water now
+- Travel the Ash Lake path from the Great Hollow to the Stone Dragon tree
+- Gough warning shot; Havel the Haligtree Sentinel standing ready
+- Every character I forgot about is hiding out in the husk of the tree
+    - Gwyn is a giant sympathizer anyway and invites the crew
+- Rejoin Nito; Melina leads them out
+    - Can see down into Izalith being constructed
+    - No dome yet since the Kiln hasn't been discovered
+    - Wodetree beginning to take shape
+    - Gwyn feels personally betrayed again
+- Emerge onto cliffside
+    - Surprise, it's Firelink
+    - Melina has been growing an Erdtree sapling
+    - Izalith, Seath, and Rya waiting at what will later be the bonfire ring
+- Discuss terms of alliance
+    - Gwyn is more concerned about the Wodetree and Melina has to mediate
+    - Rya mentions a secret weapon of last resort
+- Melina points out ruins of Faram Azula which had once been undersea
+    - The Lord is there
+    - A new cult is building something from the ruins
+    - They have time to build up, but one day Nito will sound the call
+- Everyone fucks off for twenty years
+- Raya Lucaria has become Anor Londo
+    - Fields of wheat and new forests thanks to the volcanic soil
+    - The Dragon School has removed reliance on glintstone and escaped the influence of the Stars
+- Sen's Fortress guards the front against Ringed Knights and Vulgar Militia
+    - There is only one Rune now, the Elden Ring conjoined in flame, which we will later recognize as the Darksign
+    - The Firstborn often stands with his cousins on the frontline
+- Nito calls
+    - Now he's the skeleton we all know
+    - He made titanite of his flesh and trained Dead Golden Lineage smiths like Vamos
+    - The ruins are alight with flame now, and the Ringed Knights have pulled back
+- The war council convenes
+    - The Four Knights explicitly together
+    - Introduce Jeremiah as a Golden Lineage survivor
+    - Reminder that they're all just going to buy time for the Lord's Blades
+- Big battle
+    - Knights hold the line
+    - Rotkin are skirmishers
+    - Dead are chaff
+    - Sorcerers and Witches are artillery, shooting both masses of pygmies and the ruin's walls
+- Elden Kaiju
+    - Incomplete and more Frenzy-aspected but has the powers of the One Great
+    - No real plans for dealing with it
+- WE WILL DEVOUR THE GODS TOGETHAAA
+    - Rykard fights the One Beast, even as it burns his flesh
+    - He knows he won't survive this
+- The party enters the ruin, now seen to be a Kiln
+    - Seath doesn't fit
+    - Most of the Lord's Blades are down
+    - Melina on her last legs, screaming about Torrent and justice in general
+    - The Lord is just a golden Humanity now
+    - Rya saves Melina and escapes
+- Battle vs the Lord
+    - Uses everything in the game; Raw/Frenzy build
+    - All Great Runes active; note Malenia's
+    - Gwyn in front; Izalith counterspelling; Nito providing adds and breaking aggro
+- Lord falls and leaves behind the Mending Runes, enhanced with the power of the One Great
+- The dragons show up
+    - No foreshadowing, and Nito complains about it
+    - Demand the party turn over the fragments of the Lord's Soul
+    - Mortals are clearly too irresponsible to be agents of the One Great
+- Apparently, the One Great planned for all this to happen
+    - Greater Will/Frenzied Flame split provides context to the world
+    - Uses the Frenzied Flame to start over when the Greater Will grows stagnant
+    - Provides an enemy to fight against and establish initial unity
+    - Of course the dragons won't participate since it's their job to watch
+- Seath enters
+    - Called degenerate, etc
+    - Tells Gwyn the pact is fulfilled and winks
+- Gwyn does a speech about how they fought for everything and won't let it be taken away
+    - Nito is particularly offended since the Mending Rune of the Death Prince is a part of him and the only memento of his mother
+    - Izalith is honestly just kind of there
+- Gwyn asks Seath for his reward of wisdom, for the secret of dragonslaying
+    - LIIIIIIGHTNIIING
+- Gwyn takes Seath's red lightning in one hand and the Rune of Perfected Order in the other
+    - A ray of light burns through the cloud cover and shines on the Lord of Sunlight as he raises his Spear for the first time
+
+- Smough picked up cannibalism from Rykard
+- Ciaran is a numen omen (Black Knife?)
+- The enslaved "giants" are trolls
+    - Gwyn wanted to treat them more fairly as a giant cultist
+    - Treating trolls fairly was considered "Carian" and so shunned
+- Gough and Giant Blacksmith asexual life partners from the North
+- Lloyd, McLoyf et al are Golden Lineage dregs
+- Havel is a very salty no-lightning Draconic Tree Sentinel
+- Iron Dragonslayer is also a DTS
+- Ledo is a student of the Ancestor Followers
+- Kalameet
