@@ -1,3 +1,5 @@
 **/.ztr-directory
 **/*.doc*
+**/*.clip
+**/*.xcf
 doc
