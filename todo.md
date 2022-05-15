@@ -1,28 +1,3 @@
-- Ignore the Mountaintops of the Giants
-    - Everyone is dead
-    - "Here, you can meet them if you don't believe me"
-    - As the landscape changed, they all fled to the Consecrated Snowfield
-    - More like a pool of holy water now
-- Travel the Ash Lake path from the Great Hollow to the Stone Dragon tree
-- Gough warning shot; Havel the Haligtree Sentinel standing ready
-- Every character I forgot about is hiding out in the husk of the tree
-    - Gwyn is a giant sympathizer anyway and invites the crew
-- Rejoin Nito; Melina leads them out
-    - Can see down into Izalith being constructed
-    - No dome yet since the Kiln hasn't been discovered
-    - Wodetree beginning to take shape
-    - Gwyn feels personally betrayed again
-- Emerge onto cliffside
-    - Surprise, it's Firelink
-    - Melina has been growing an Erdtree sapling
-    - Izalith, Seath, and Rya waiting at what will later be the bonfire ring
-- Discuss terms of alliance
-    - Gwyn is more concerned about the Wodetree and Melina has to mediate
-    - Rya mentions a secret weapon of last resort
-- Melina points out ruins of Faram Azula which had once been undersea
-    - The Lord is there
-    - A new cult is building something from the ruins
-    - They have time to build up, but one day Nito will sound the call
 - Everyone fucks off for twenty years
 - Raya Lucaria has become Anor Londo
     - Fields of wheat and new forests thanks to the volcanic soil
@@ -30,6 +5,8 @@
 - Sen's Fortress guards the front against Ringed Knights and Vulgar Militia
     - There is only one Rune now, the Elden Ring conjoined in flame, which we will later recognize as the Darksign
     - The Firstborn often stands with his cousins on the frontline
+    - Tack on Havel, Iron Dragonslayer, Ledo
+- Archdragons haven't made a move; continuing to ignore them
 - Nito calls
     - Now he's the skeleton we all know
     - He made titanite of his flesh and trained Dead Golden Lineage smiths like Vamos
@@ -74,7 +51,7 @@
     - Tells Gwyn the pact is fulfilled and winks
 - Gwyn does a speech about how they fought for everything and won't let it be taken away
     - Nito is particularly offended since the Mending Rune of the Death Prince is a part of him and the only memento of his mother
-    - Izalith is honestly just kind of there
+    - Izalith is in tune with the resentment of the defiled
 - Gwyn asks Seath for his reward of wisdom, for the secret of dragonslaying
     - LIIIIIIGHTNIIING
 - Gwyn takes Seath's red lightning in one hand and the Rune of Perfected Order in the other
